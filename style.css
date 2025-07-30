@@ -70,6 +70,10 @@ transition: 0.3s;
 
 }
 
+.card-hover:hover h4{
+  opacity: 100%;
+  background-color: rgba(0, 0, 0, 0.455);
+}
 
 
 
